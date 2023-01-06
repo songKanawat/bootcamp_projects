@@ -3,11 +3,11 @@ Data science bootcampw with batch6
 
 we learn 10 sprints during 4 months program
 
-- Spradsheets
+- Spreadsheets
 - SQL database
 - R programming
-- Data trasformation
-- data Visualization
+- Data Trasformation
+- Data Visualization
 - Statistics
 - Intro to 'CLassical' Machine Lerning
 - Intro to python 
